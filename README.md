@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction
+# 📊 Telecome Customer Churn Analysis Prediction
 
 > A Machine Learning project that predicts whether a customer will churn (leave) or not based on their data.
 
