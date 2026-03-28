@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
